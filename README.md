@@ -3,8 +3,7 @@ Use web crawler to collect interview questionsUse web crawler to collect intervi
 
 ## 可以自己修改filter 和配置文件进行网站收录，目前就收录了一个网站
 ## 仅用于学习研究不得用于商业用途
---
---
+
 ## 1、配主要置模块
 
     time
@@ -16,9 +15,8 @@ Use web crawler to collect interview questionsUse web crawler to collect intervi
     requestes
     tkinter
 
-
 ## 2、目录、文件说明
- ### 目录
+### 目录
 
     bg : 背景图片目录
     CN_DOM ：默认的获取文件保安存路劲(获取文件、记录文件)
@@ -36,10 +34,11 @@ Use web crawler to collect interview questionsUse web crawler to collect intervi
     welcom.py : 界面 、逻辑函数
     A2.0.py ： 入口
 
-## 3、运行方法：
+### 3、运行方法：
     运行 A2.0.py 文件.
 
 ##4、 其他抓取需求或者路径修改：
+*-*
 
     方法一、修改config.py 文件的参数：具体看config.py 文件
     方法二、 界面传入
