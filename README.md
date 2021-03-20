@@ -1,9 +1,10 @@
 # Interview-quwstion-collectiom-system
 Use web crawler to collect interview questionsUse web crawler to collect interview questions.
-# 可以自己修改filter 和配置文件进行网站收录，目前就收录了一个网站
-# 仅用于学习研究不得用于商业用途
 
-
+## 可以自己修改filter 和配置文件进行网站收录，目前就收录了一个网站
+## 仅用于学习研究不得用于商业用途
+--
+--
 ## 1、配主要置模块
 
     time
