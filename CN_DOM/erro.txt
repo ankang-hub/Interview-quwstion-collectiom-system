@@ -1,0 +1,212 @@
+2021-03-17 19:29:38,563 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Read timed out. (read timeout=5)
+2021-03-17 19:30:07,313 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Read timed out. (read timeout=5)
+2021-03-17 20:35:40,932 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:41,174 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:41,455 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:41,718 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:41,949 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:42,189 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:42,409 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:35:42,627 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:24,857 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:25,095 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:25,308 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:25,523 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:25,732 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:25,990 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:26,205 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:26,431 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:26,638 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:26,850 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:27,085 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:27,289 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:27,509 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:27,726 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:27,936 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:28,170 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:28,396 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:28,597 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 20:59:30,399 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:32,524 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:34,860 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:37,027 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:39,225 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:41,472 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:43,823 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:46,182 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:48,408 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:50,630 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:53,048 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:55,118 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:57,162 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 20:59:59,249 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:01,495 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:04,174 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:06,390 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:08,632 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:10,899 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:13,221 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:15,515 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:17,758 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:20,090 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:22,384 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:25,168 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:27,471 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:29,737 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:31,973 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:34,269 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:36,469 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 21:00:38,683 - 文章下载出错:[Errno 2] No such file or directory: 'E://a/information.doc'
+2021-03-17 22:25:59,745 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:00,200 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:00,444 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:00,778 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:01,098 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:01,339 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:01,590 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:01,891 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:02,182 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:02,432 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:02,656 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:02,895 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:03,137 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:03,373 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:03,661 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:03,910 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:04,140 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:26:04,441 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:17,278 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:19,481 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:20,165 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:20,414 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:20,690 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:20,909 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:21,120 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:21,342 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:21,569 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:21,821 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:22,120 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:22,343 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:22,578 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:22,803 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:23,037 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:23,255 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:23,527 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:23,772 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:28:30,185 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:29:55,281 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:52:25,902 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:53:34,942 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:54:19,311 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:54:24,704 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:27,097 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:29,177 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:31,404 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:33,964 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:36,123 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:38,339 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:40,672 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:43,275 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:45,591 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:50,745 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:53,561 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:54:56,687 - 文章下载出错:[Errno 13] Permission denied: './CN_DOM/information.doc'
+2021-03-17 22:55:03,067 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:55:10,559 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:56:59,433 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Max retries exceeded with url: /dudu_888/article/details/80633596?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161599125916780265429671%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161599125916780265429671&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-25-80633596.pc_search_result_before_js&utm_term=%E2%80%9CAI%E9%9D%A2%E8%AF%95%E2%80%9D (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000111B9B934E0>, 'Connection to blog.csdn.net timed out. (connect timeout=3)'))
+2021-03-17 22:57:02,756 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Max retries exceeded with url: /api/v2/search?q=%E2%80%9C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E2%80%9D&t=all&p=11&s=0&tm=0&lv=-1&ft=0&l=&u=&platform=pc (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000111B1E03E48>, 'Connection to so.csdn.net timed out. (connect timeout=5)'))
+2021-03-17 22:57:05,129 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Max retries exceeded with url: /api/v2/search?q=%E2%80%9C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E2%80%9D&t=all&p=16&s=0&tm=0&lv=-1&ft=0&l=&u=&platform=pc (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000111B1DBDA58>, 'Connection to so.csdn.net timed out. (connect timeout=5)'))
+2021-03-17 22:57:13,705 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 22:57:40,379 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:40,629 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:40,942 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:41,193 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:41,435 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:41,674 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:41,952 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:42,331 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:42,614 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:42,955 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:43,193 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:43,457 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:43,695 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:43,899 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:44,152 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:44,410 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:44,710 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:57:45,081 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:13,617 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:13,851 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:14,058 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:14,273 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:14,507 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:14,727 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:15,024 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:15,309 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:15,546 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:15,775 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:16,040 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:16,363 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:16,795 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:17,245 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:17,931 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:18,178 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:18,400 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 22:58:18,627 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:00,538 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:00,876 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:01,155 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:01,396 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:01,711 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:01,958 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:02,210 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:02,467 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:02,716 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:02,962 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:03,215 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:03,579 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:03,957 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:04,195 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:04,416 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:04,657 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:04,898 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:00:05,144 - 文章下载出错:object of type 'bool' has no len()
+2021-03-17 23:05:52,311 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 23:06:14,248 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 23:06:14,249 - 文章下载出错:HTTPSConnectionPool(host='blog.csdn.net', port=443): Read timed out. (read timeout=3)
+2021-03-17 23:07:16,983 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Read timed out. (read timeout=5)
+2021-03-17 23:07:25,036 - 文章下载出错:HTTPSConnectionPool(host='so.csdn.net', port=443): Read timed out. (read timeout=5)
+2021-03-18 21:00:52,507 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:52,846 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:53,122 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:53,380 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:53,648 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:53,881 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:54,119 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:54,479 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:54,730 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:54,967 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:55,215 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:55,490 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:55,728 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:55,997 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:56,243 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:56,469 - 文章下载出错:object of type 'bool' has no len()
+2021-03-18 21:00:58,420 - 文章下载出错:[Errno 2] No such file or directory: 'E:/a/information.doc'
+2021-03-18 21:01:00,812 - 文章下载出错:[Errno 2] No such file or directory: 'E:/a/information.doc'
+2021-03-20 20:28:08,811 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:09,043 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:09,273 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:09,511 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:09,748 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:09,987 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:10,205 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:10,409 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:10,639 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:10,853 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:11,078 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:11,287 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:11,515 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:11,721 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:11,928 - 文章下载出错:object of type 'bool' has no len()
+2021-03-20 20:28:12,137 - 文章下载出错:object of type 'bool' has no len()
